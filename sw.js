@@ -1,5 +1,5 @@
 // UBAH ANGKA INI SETIAP KALI BOS UPDATE index.html (Misal: v2, v3, v4)
-const CACHE_NAME = 'qurban-app-v1'; 
+const CACHE_NAME = 'qurban-appanggota-v1'; 
 
 const urlsToCache = [
   './index.html',
