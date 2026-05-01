@@ -2,7 +2,7 @@
     "name": "Qurban At Tauhid (Viewer)",
     "short_name": "Qurban View",
     "description": "Mode Lihat Data Qurban Masjid At Tauhid - Real-Time Sync",
-    "start_url": "./Panitia-anggotaqurban/.html",
+    "start_url": "./Panitia-anggotaqurban/",
     "display": "standalone",
     "background_color": "#681313",
     "theme_color": "#7f1d1d",
