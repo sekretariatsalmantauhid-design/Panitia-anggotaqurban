@@ -2,7 +2,8 @@
     "name": "Qurban At Tauhid (Viewer)",
     "short_name": "Qurban View",
     "description": "Mode Lihat Data Qurban Masjid At Tauhid - Real-Time Sync",
-    "start_url": "./Panitia-anggotaqurban/",
+    "start_url": "/Panitia-anggotaqurban/",
+    "scope": "/Panitia-anggotaqurban/",
     "display": "standalone",
     "background_color": "#681313",
     "theme_color": "#7f1d1d",
@@ -11,11 +12,13 @@
             "src": "logo.png",
             "sizes": "192x192",
             "type": "image/png"
+            "purpose": "any maskable"
         },
         {
             "src": "logo.png",
             "sizes": "512x512",
             "type": "image/png"
+            "purpose": "any maskable"
         }
     ]
 }
